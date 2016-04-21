@@ -1,0 +1,56 @@
+li > a {
+	display: inline;
+}
+
+#skills {
+	display: block;
+}
+
+#skillsH3 {
+	margin: 10px 0;
+}
+
+.biopic {
+	width: 230px;
+	border-radius: 180px;
+}
+
+img {
+	width: 40%;
+}
+
+.chatreuse {
+  background-color: #CAD300;
+}
+
+.chatreuse-text {
+  color: #CAD300;
+}
+
+h1 {
+	color: #CAD300;
+}
+
+a {
+	color: #A3BA05;
+}
+
+.row {
+	padding: 0 40px;
+}
+
+#skillsH3 {
+	color: #CAD300;
+}
+
+h3 {
+	font-style: normal;
+}
+
+#topContacts {
+	padding: 20px 10px;
+}
+
+.welcome-message {
+	color: #707F04;
+}
